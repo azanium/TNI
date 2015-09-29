@@ -1,0 +1,2947 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<QuestionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <questions>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>How long is Quaran revealed to prophet Muhammed(PBUH)?</content>
+      <answers>
+        <answer correct="false" option="a">19 years</answer>
+        <answer correct="false" option="b">20 years</answer>
+        <answer correct="true" option="c">23 years</answer>
+      </answers>
+      <info>From 610AD to 623AD</info>
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>How many names does the book of Allah have other than the Quran itself?</content>
+      <answers>
+        <answer correct="false" option="a">3</answer>
+        <answer correct="false" option="b">4</answer>
+        <answer correct="false" option="c">5</answer>
+        <answer correct="true" option="d">7</answer>
+      </answers>
+      <info>1. Al-Furqaan 2. Al-Thikr 3. Al-Kitaab 4.Al-Huda 5. Al-Noor</info>
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>The Prophet Muhammed informed his companions to pray 5 times a day, but what was the initial number of prayers ordered by Allah?</content>
+      <answers>
+        <answer correct="false" option="a">15</answer>
+        <answer correct="false" option="b">20</answer>
+        <answer correct="true" option="c">50</answer>
+        <answer correct="false" option="d">250</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>What is ibliss to mankind according to Quran?</content>
+      <answers>
+        <answer correct="false" option="a">a manipulator</answer>
+        <answer correct="true" option="b">an enemy</answer>
+        <answer correct="false" option="c">a Co-exsistence</answer>
+      </answers>
+      <info>1. Al-Furqaan 2. Al-Thikr 3. Al-Kitaab 4.Al-Huda 5. Al-Noor</info>
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>By what names did Quran describe messengers of God?</content>
+      <answers>
+        <answer correct="false" option="a">Nabi (prophet)</answer>
+        <answer correct="false" option="b">Rasool (messenger)</answer>
+        <answer correct="true" option="c">Both</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>How many years did it take for the complete revelation of the Quran?</content>
+      <answers>
+        <answer correct="true" option="a">22 years, 5 months and 14 days</answer>
+        <answer correct="false" option="b">23 year, 3 months and 10 days</answer>
+        <answer correct="false" option="c">23 year, 7 months and 27 days</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>What Surah did Allah teach us as a dua?</content>
+      <answers>
+        <answer correct="false" option="a">Yasin</answer>
+        <answer correct="true" option="b">Al-Fatiha</answer>
+        <answer correct="false" option="c">Al-Ikhlas</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>How many of Allah's 99 names is mentioned in the Quran?</content>
+      <answers>
+        <answer correct="true" option="a">99</answer>
+        <answer correct="false" option="b">90</answer>
+        <answer correct="false" option="c">85</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>How many Surah's (Chapters) does the Quran have?</content>
+      <answers>
+        <answer correct="false" option="a">100</answer>
+        <answer correct="false" option="b">111</answer>
+        <answer correct="true" option="c">114</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>What Surah (chapter) is known as Bride of the Quran?</content>
+      <answers>
+        <answer correct="false" option="a">Al Baqara</answer>
+        <answer correct="true" option="b">Al Rahman</answer>
+        <answer correct="false" option="c">Al Ikhlas</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>What activity teaches muslims self-restraint?</content>
+      <answers>
+        <answer correct="false" option="a">Prayer</answer>
+        <answer correct="false" option="b">Charity</answer>
+        <answer correct="true" option="c">Fasting</answer>
+      </answers>
+      <info>"O you who believe! Fasting is prescribed for you as it was prescribed for those before you so that you may learn self-restraint") Quran, 2:183</info>
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>What is the difference between men and women as far as their relationship to Allah is concerned?</content>
+      <answers>
+        <answer correct="false" option="a">Men are stronger</answer>
+        <answer correct="true" option="b">None</answer>
+        <answer correct="false" option="c">Men are superior</answer>
+      </answers>
+      <info>"And for women are rights over men similar to those of men over women". Al Baqara 2:226)</info>
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>What is the other name of the prophet Muhammed (peace be upon him) which was mentioned in the Holy Quran?</content>
+      <answers>
+        <answer correct="false" option="a">Muhannad</answer>
+        <answer correct="true" option="b">Ahmed</answer>
+        <answer correct="false" option="c">Al Amin</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>What was the queen of Sheba and her people worshiping?</content>
+      <answers>
+        <answer correct="false" option="a">The Moon</answer>
+        <answer correct="true" option="b">The Sun</answer>
+        <answer correct="false" option="c">The Fire</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>Which surah was revealed at the conquest of Makkah?</content>
+      <answers>
+        <answer correct="true" option="a">Al Nasr</answer>
+        <answer correct="false" option="b">Al Fatiha</answer>
+        <answer correct="false" option="c">Al Asr</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>Quran did not only exist in written form such as bark of date palms, stones, leather, etc., but was also preserved in?</content>
+      <answers>
+        <answer correct="true" option="a">the memory of the companions</answer>
+        <answer correct="false" option="b">books</answer>
+        <answer correct="false" option="c">papers</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>What were the worships ordered by Allah to Bani Israel which todays muslims continued doing?</content>
+      <answers>
+        <answer correct="true" option="a">Salah and Zakat</answer>
+        <answer correct="false" option="b">Salat and Sawm</answer>
+        <answer correct="false" option="c">Salat and Hajj</answer>
+      </answers>
+      <info>(Al-Baqarah:43)</info>
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>What is the longest verse in the Quran? and where does it exist?</content>
+      <answers>
+        <answer correct="false" option="a">Al Irth in surat Al Nisaa</answer>
+        <answer correct="true" option="b">Al Dayn in surah Al Baqara</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>Is it obligatory to be in full ablution "wodou" when reciting the Quran to a public?</content>
+      <answers>
+        <answer correct="true" option="a">No, Ablution is obligatory when touching the Quran</answer>
+        <answer correct="false" option="b">Yes, Ablution is obligatory when reciting the Quran</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>What are the other 3 names given for the holy city "Makkah" in the Quran?</content>
+      <answers>
+        <answer correct="false" option="a">Bakkah and Baladul Ameen</answer>
+        <answer correct="false" option="b">Baladul Ameen and Umm Al Qura</answer>
+        <answer correct="true" option="c">Bakkah, Baladul Ameen and Umm Al Qura</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>What Surah is equivalent to one third of the Quran?</content>
+      <answers>
+        <answer correct="true" option="a">Al Ekhlas</answer>
+        <answer correct="false" option="b">Yasin</answer>
+        <answer correct="false" option="c">Al Rahman</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>How did Allah describe the heavens (Al Samawat) in the Quran which was later discovered by scientists in the 21st century?</content>
+      <answers>
+        <answer correct="true" option="a">the Cosmic fabric</answer>
+        <answer correct="false" option="b">various patterns</answer>
+        <answer correct="false" option="c">a black tube</answer>
+      </answers>
+      <info>(by heaven furnished with paths, Surah Al-Dhariyat, 7...meaning: as knitted or woven fabric)</info>
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>Complete following Verse: "If the mankind and the Jinn were together to produce the like of this Quran, they could not produce the like thereof...... [Al-'Isra, 17:88]</content>
+      <answers>
+        <answer correct="false" option="a">even if they were given the strenght and the power</answer>
+        <answer correct="false" option="b">even if they were given the knowledge</answer>
+        <answer correct="true" option="c">even if they helped one another</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>Quran mentions that life has an aquatic origin in which Surah?</content>
+      <answers>
+        <answer correct="false" option="a">Al Ahzab</answer>
+        <answer correct="true" option="b">Al Anbiya</answer>
+        <answer correct="false" option="c">Al Ankabout</answer>
+      </answers>
+      <info>(21:30 And I created every living thing out of water)</info>
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>Do the disbelievers not see that the heavens and the earth were joined together, then I split them apart? Surah 21:30- what other name does the modern scientist use today?</content>
+      <answers>
+        <answer correct="false" option="a">the explosion theory</answer>
+        <answer correct="false" option="b">the black hole theory</answer>
+        <answer correct="true" option="c">the big bang theory</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>What area is described as a rose in the Quran?</content>
+      <answers>
+        <answer correct="false" option="a">Heavens</answer>
+        <answer correct="false" option="b">Earth</answer>
+        <answer correct="true" option="c">The universe/cosmos</answer>
+      </answers>
+      <info>(verse 55.37)</info>
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>What verse did the prophets say when he was destroying the idols in the Kaaba?</content>
+      <answers>
+        <answer correct="false" option="a">he said Allah is the greatest (Allah Akbar)</answer>
+        <answer correct="false" option="b">he said islam is the truth</answer>
+        <answer correct="true" option="c">he recited "Truth has arrived and falsehood has perished for falsehood is by its nature bound to perish"</answer>
+      </answers>
+      <info>(Al- Israa 17:81)</info>
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>What is the total number of verses in the Quran?</content>
+      <answers>
+        <answer correct="false" option="a">1056 verses</answer>
+        <answer correct="true" option="b">6236 verses</answer>
+        <answer correct="false" option="c">14877 verses</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>How many times is the prophet Muhammed (peace be upon him) mentioned by name in the Quran?</content>
+      <answers>
+        <answer correct="true" option="a">4</answer>
+        <answer correct="false" option="b">7</answer>
+        <answer correct="false" option="c">40</answer>
+        <answer correct="false" option="d">437</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>How many times is the prophet Noah mentioned in the Quran?</content>
+      <answers>
+        <answer correct="true" option="a">47</answer>
+        <answer correct="false" option="b">12</answer>
+        <answer correct="false" option="c">25</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>What did the Caliph Malik-al-Marwan (66-86 Hijri/685-705 C.E.) introduced to the Quran on the 5th Ummay period via Hajjaj bin Yusuf?</content>
+      <answers>
+        <answer correct="false" option="a">New arabic alphabets</answer>
+        <answer correct="true" option="b">The Vowels on the arabic words</answer>
+        <answer correct="false" option="c">New font style</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>What did the prophet Muhammed (PBUH) order Abdullah ibn Al Arqam to do?</content>
+      <answers>
+        <answer correct="true" option="a">write the Quran</answer>
+        <answer correct="false" option="b">write the hadith</answer>
+        <answer correct="false" option="c">do justice</answer>
+      </answers>
+      <info>(He ordered him to write and gather the whole Quran. He was "the companion" who first wrote down all the revelations "Quran")</info>
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>What was the incident behind the arabic words "Al Ar'th Al a'khira"?</content>
+      <answers>
+        <answer correct="false" option="a">The prophets last battle</answer>
+        <answer correct="true" option="b">The prophet Muhammeds last recitation to the angel Gabriel</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>In sura Baqara [2:62], Al-Ma'idah [5:69] and Al-Haj [22:17] a group of righteous people were mentioned beyond the people of the books- who were they?</content>
+      <answers>
+        <answer correct="false" option="a">Amalikites</answer>
+        <answer correct="true" option="b">The Sabian</answer>
+        <answer correct="false" option="c">Bani Israel</answer>
+      </answers>
+      <info>(a past nation used to live in Al Mausal, Iraq, used to say "La' Ilaha' Illa' Allah" and read Al Zaboor and they were neither Jews or Christians)</info>
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>How many times where Abu Bakr referred to in the Quran?</content>
+      <answers>
+        <answer correct="false" option="a">1</answer>
+        <answer correct="false" option="b">3</answer>
+        <answer correct="true" option="c">7</answer>
+      </answers>
+      <info> ({9:40} , {92:18-21} , {92:1-7} , {33:43} , (3:158) , (15:46) , {18:24})</info>
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>Bible talks of the sun and the moon as two lights differing only in size- how are they described in Quran?</content>
+      <answers>
+        <answer correct="true" option="a"> Moon as light and Sun as lamp</answer>
+        <answer correct="false" option="b">Moon as Bright star and Sun as day light</answer>
+      </answers>
+      <info>Moon:light (noor) and Sun:lamp (siraaj)</info>
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>What is the description of the arabic word "kawwa'ra" in chapter AL-Zumer, verse 39:5?</content>
+      <answers>
+        <answer correct="true" option="a">description of the way the night winds or coils itself around the day and the day around the night</answer>
+        <answer correct="false" option="b">description of how the night and the day are separated by darkness</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>Modern science discovered that the size of the universe appears to be progressively increasing- which Surah talks about this?</content>
+      <answers>
+        <answer correct="false" option="a">Surah Yassine</answer>
+        <answer correct="false" option="b">Surah Al Rahman</answer>
+        <answer correct="true" option="c">Surah Adh-Dhariyat</answer>
+      </answers>
+      <info>(51:47, I built the heaven with power and it is I, who am expanding it...)</info>
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>Quraish became so proud of it's population, they counted people alive andwent to the Cemetery to count the dead, which Surah was sent down in this occasion?</content>
+      <answers>
+        <answer correct="false" option="a">Al Kawther</answer>
+        <answer correct="true" option="b">Al Takathur</answer>
+        <answer correct="false" option="c">Al Naba</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>A Surah in the holy Quran is known as" the believer", what surah is that?</content>
+      <answers>
+        <answer correct="false" option="a">Al Shu' ara</answer>
+        <answer correct="false" option="b">Fatiha</answer>
+        <answer correct="true" option="c">Ghafir</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>Whom of the great worriers did the prophet Muhammed (peace be upon him) send in to fight the Quraish at the conquest of Makkah?</content>
+      <answers>
+        <answer correct="false" option="a">Qaqa ibn Amr</answer>
+        <answer correct="true" option="b">Khalid Ibn Walid</answer>
+        <answer correct="false" option="c">Saad ibn Abi Waqqas</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>When was "Al-Mu'awwidha'tayn" revealed?</content>
+      <answers>
+        <answer correct="true" option="a">due the prophets illness</answer>
+        <answer correct="false" option="b">when the Jews tried to assassinate him</answer>
+        <answer correct="false" option="c">25</answer>
+      </answers>
+      <info>(Surah al-Falaq and Al-Nas were revealed by Gabriel when the prophets became ill due sorcery)</info>
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>Which surah's did the angel Gabriel reveal to undo the 11 rope knots to heal the prophet from the touched magic?</content>
+      <answers>
+        <answer correct="false" option="a">Al Baqara</answer>
+        <answer correct="false" option="b">Yasin</answer>
+        <answer correct="true" option="c">"Al- Falaq and Al-Nas"</answer>
+      </answers>
+      <info>(11 verses; one verse for each knot)</info>
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>What surah did the "jinn"hear and said we heard wondrous Quran?</content>
+      <answers>
+        <answer correct="false" option="a">Ayat Al Kursi</answer>
+        <answer correct="true" option="b">Al Alaq</answer>
+        <answer correct="false" option="c">Al Fatiha</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>blue</type>
+      <section>Quran</section>
+      <content>Which surah was concluded with the names of two prophets?</content>
+      <answers>
+        <answer correct="true" option="a">Surah Al-A'la</answer>
+        <answer correct="false" option="b">Al Hashr</answer>
+      </answers>
+      <info> (Ibrahim and Musa) </info>
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>What readen "Ayat" will protect the sleepper, the home, family and neighboursfrom evil until morning?</content>
+      <answers>
+        <answer correct="true" option="a">Ayat al kursiy</answer>
+        <answer correct="false" option="b">Fatiha</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>The Prophet said, Recite surah _____ and then go to sleep after coming to its end, for it is a clearance from shirk, what surah is it?</content>
+      <answers>
+        <answer correct="false" option="a">Al Kursy</answer>
+        <answer correct="true" option="b">Surah al Kafirun</answer>
+      </answers>
+      <info>(Abu Dawud 4396 and Hakim 1/565)</info>
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>The Prophet (peace and blessings be upon him) said, "There is a surah in the Quran which is only thirty verses. It defends whoever recites it, until it puts him into paradise."</content>
+      <answers>
+        <answer correct="true" option="a">Al Baqara</answer>
+        <answer correct="false" option="b">Al Fatiha</answer>
+        <answer correct="false" option="c">Al Mulk</answer>
+      </answers>
+      <info>(Fath al Qadir 5/257, Sahihul Jamiea 1/680, Tabrani and Ibn Mardawaith)</info>
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>According to Ibn Sunni 620, The Prophet said, "Whoever recites surah Al Waqiah at night would never encounter___- what"?</content>
+      <answers>
+        <answer correct="true" option="a">Poverty</answer>
+        <answer correct="false" option="b">Ilness</answer>
+        <answer correct="false" option="c">Madness</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>Which read Surah is reported to be writen down Ten readings of the Quran?</content>
+      <answers>
+        <answer correct="false" option="a">Al Fatiha</answer>
+        <answer correct="false" option="b">Al-Ikhlas</answer>
+        <answer correct="true" option="c">Yasin</answer>
+      </answers>
+      <info>(Tirmidhi 2812/A)</info>
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>Which Surah is a medicine for every disease except death?</content>
+      <answers>
+        <answer correct="true" option="a">Al-Fatiha</answer>
+        <answer correct="false" option="b">Al-Falaq</answer>
+        <answer correct="false" option="c">Al-Naas</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>Which verse is the greatest in the Book of Allah?</content>
+      <answers>
+        <answer correct="false" option="a">Ayat Al Deen</answer>
+        <answer correct="false" option="b">Ayat Al Ketab</answer>
+        <answer correct="true" option="c">Ayat Al Kursy</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>Which hadith saying is this "...He is not one of us who does not show tenderness to the young and who does not show respect to the elder."</content>
+      <answers>
+        <answer correct="true" option="a">Hadith al-Tirmidhi</answer>
+        <answer correct="false" option="b">Hadith Al-Tabari</answer>
+        <answer correct="false" option="c">Al-Farnas</answer>
+      </answers>
+      <info>(Tirmidhi, Birr, 15; Abu Dawud, Adab, 58; Musnad, 1/257)</info>
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>What type of earning is best according to the prophet Muhammed (peace be upon him)?</content>
+      <answers>
+        <answer correct="true" option="a">"A man's work with his hands and every (lawful) business transaction"</answer>
+        <answer correct="false" option="b">"A man's wisdom and mercy"</answer>
+      </answers>
+      <info>(Al-Tirmidhi, Hadith 846)</info>
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>A funeral passed the prophet (peace be upon him) and he stod up out of respect, but when he was told the person in the coffin was Jewish and not Muslim, what did he say?</content>
+      <answers>
+        <answer correct="true" option="a">"Was it not a living (soul)?"</answer>
+        <answer correct="false" option="b">"If, I knew I wouldn't have stood up"</answer>
+      </answers>
+      <info>(Sahih Al-Bukhari, Volume 2, Hadith 399)</info>
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>What must continually be asked in order for a muslim to obtain distress, relief from anxiety?</content>
+      <answers>
+        <answer correct="true" option="a">Pardon</answer>
+        <answer correct="false" option="b">Belief</answer>
+        <answer correct="false" option="c">Relief from Satan</answer>
+      </answers>
+      <info>If anyone continually asks pardon, God will appoint for him a way out of every distress...." Abdu Dawood, Hadith 599</info>
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>Complete hadith: The prophet said "(Allah) has revealed to me that you should adopt"....."so that no one oppresses another."</content>
+      <answers>
+        <answer correct="true" option="a">Humility</answer>
+        <answer correct="false" option="b">Strength</answer>
+        <answer correct="false" option="c">Knowledge</answer>
+      </answers>
+      <info>(Riyadh-us-Salaheen, Hadith 1589)</info>
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>Complete Hadith: "Avoid ""for it destroys good deeds as fire destroys"."</content>
+      <answers>
+        <answer correct="true" option="a">jealousy/wood</answer>
+        <answer correct="false" option="b">anger/houses</answer>
+      </answers>
+      <info>(Riyadh-us-Salaheen, Hadith 1569)</info>
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>What should a muslim say if annoyed under Ramadan?</content>
+      <answers>
+        <answer correct="true" option="a">I am fasting, I am fasting</answer>
+        <answer correct="false" option="b">I am fasting and dont want to fight</answer>
+      </answers>
+      <info>("alla'huma ini saim") Fiqh-us-Sunnah, Volume 3, Number 132A</info>
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>Who is a "Muhajir" (emigrant)?</content>
+      <answers>
+        <answer correct="true" option="a">one who abandons all what Allah has forbidden</answer>
+        <answer correct="false" option="b">one who seeks refuge from Satan's work</answer>
+      </answers>
+      <info>(Bukhari by Abdullah bin Amr, Volume 1, Book 2,9)</info>
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>The Prophet would not sleep until he recited Surah?</content>
+      <answers>
+        <answer correct="false" option="a">Al Fatiha, b. , c. Al Kursi. Answer: b </answer>
+        <answer correct="true" option="b">Al Sajdah</answer>
+        <answer correct="false" option="c">Al Kursi</answer>
+      </answers>
+      <info>(at-Tirmidhi 5/165; Hakim 2/412 and Dhahabi in Sahih al Jamiea (22/789))</info>
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>A muslim earned 100 sheeps by curing a mad man- what did he do?</content>
+      <answers>
+        <answer correct="false" option="a">He did an excorcism by reading Surah Al Falaq</answer>
+        <answer correct="true" option="b">He did an excorcism by reading Surah Al Fatiha</answer>
+        <answer correct="false" option="c">He did an excorcism by reading Surah Al Ikhlas</answer>
+      </answers>
+      <info>(Abu Dawud 3398/a)</info>
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>Which Surah is considered as the top Surah of the Quran and was brought down by 80 Angels?</content>
+      <answers>
+        <answer correct="false" option="a">Al Fatiha</answer>
+        <answer correct="false" option="b">Al Ikhlas</answer>
+        <answer correct="true" option="c">Al Baqara</answer>
+      </answers>
+      <info>(The Prophet said, "Al Baqarah is the top (or pinnacle) of the Quran. Eighty angels came down with each one of its verses" [Ahmad 5/26]</info>
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>Complete the hadith: A believing man should not "____" a believing woman; if he dislikes one of her characteristics, he will be pleased with another.</content>
+      <answers>
+        <answer correct="false" option="a">dislike</answer>
+        <answer correct="true" option="b">hate</answer>
+        <answer correct="false" option="c">critise</answer>
+      </answers>
+      <info>(Hadith, Muslim, 3469)</info>
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>What did the Prophet Muhammed (peace be upon him) describe the person who denies or rejects his sunnah?</content>
+      <answers>
+        <answer correct="true" option="a">he/she is not of his nation</answer>
+        <answer correct="false" option="b">will not enter paradise</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>Why did the prophet say "O Allah, grant me life as a poor man, cause me to die as a poor man and resurrect me in the company of the poor?</content>
+      <answers>
+        <answer correct="false" option="a">because he loves the poor people</answer>
+        <answer correct="true" option="b">beause the poor will enter Paradise before the rich</answer>
+        <answer correct="false" option="c">because he wanted to make the poor people happy</answer>
+      </answers>
+      <info>(Al-Tirmidhi, Hadith 1376)</info>
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>Complete: "The best (Jihad) is"..".?</content>
+      <answers>
+        <answer correct="true" option="a">"to speak word of justice to an oppressive ruler"</answer>
+        <answer correct="false" option="b">"to fight the infidels"</answer>
+        <answer correct="false" option="c">"to defend Islam"</answer>
+      </answers>
+      <info>(Sunan of Abu-Dawood, Hadith 2040)</info>
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>Complete hadith: The prophet said "No companion of mine should tell me anything bad about another person. For when I meet you"</content>
+      <answers>
+        <answer correct="true" option="a">"I would like my heart to be clean (unbiased)</answer>
+        <answer correct="false" option="b">"I don't like to hear gossip"</answer>
+        <answer correct="false" option="c">"I will challenge the person"</answer>
+      </answers>
+      <info>(Riyadh-us-Salaheen, Hadith 1539)</info>
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>"According to the prophet Muhammed (peace be upon him) how many sects will muslims be divided into up to judgement day?"</content>
+      <answers>
+        <answer correct="true" option="a">73</answer>
+        <answer correct="false" option="b">71</answer>
+        <answer correct="false" option="c">72</answer>
+      </answers>
+      <info>(only one Muslim sect will enter Paradise. ( Jews: 71, Christians: 72 and only one sect of each will enter paradise)</info>
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>What is the last action on the earth before the judgement day begins?</content>
+      <answers>
+        <answer correct="false" option="a">Isa will come down(</answer>
+        <answer correct="false" option="b">the unbelievers will die</answer>
+        <answer correct="false" option="c">Massih Aldajal (so called antichrist) will come</answer>
+        <answer correct="true" option="d">the second blowing in the Trumpet, upon which everyone will be resurrected</answer>
+      </answers>
+      <info>(Muslim 041, Number 7023)</info>
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>What will the Euphrates uncover?</content>
+      <answers>
+        <answer correct="true" option="a">a mountain of gold</answer>
+        <answer correct="false" option="b">Jajooj and Majooj</answer>
+        <answer correct="false" option="c">Noah's ark</answer>
+      </answers>
+      <info>(Sahih Bukhari, Volume 9, Book 88, Number 235)</info>
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>Which tree resembles a muslim according to the prophet Muhammed (peace be upon him)?</content>
+      <answers>
+        <answer correct="true" option="a">Date-Palm Tree</answer>
+        <answer correct="false" option="b">Desert rose</answer>
+        <answer correct="false" option="c">Chaste Tree</answer>
+      </answers>
+      <info>(Bukhari by Ibn Umar no. 72)</info>
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>What are the two persons a muslim could wish to be?</content>
+      <answers>
+        <answer correct="true" option="a">Wealthy person spending righteously and One whom Allah has given wisdom to teach others</answer>
+        <answer correct="false" option="b">Powerful person fighting for the sake of Allah and Wealthy person building mosques</answer>
+      </answers>
+      <info>(Bukhari 73)</info>
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>One Prayer in this mosque is equal to 100,000 prays, which mosque is that?</content>
+      <answers>
+        <answer correct="true" option="a">Al Masjid Al Haram</answer>
+        <answer correct="false" option="b">Al- Aqsa</answer>
+        <answer correct="false" option="c">Al- Nabawi</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>Most people think that Jahanam (Hell) is red, however the Prophet mentioned in one of his hadith that the colour of Jahanam is?</content>
+      <answers>
+        <answer correct="true" option="a">Black</answer>
+        <answer correct="false" option="b">Multicolour</answer>
+        <answer correct="false" option="c">Red and White</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>Complete the Hadith by Abu Huraira: "Woman is like a ".."?When you attempt to straighten it, you would break it...."</content>
+      <answers>
+        <answer correct="false" option="a">a bone</answer>
+        <answer correct="true" option="b">a rib</answer>
+        <answer correct="false" option="c">flower</answer>
+      </answers>
+      <info>Hadith,Muslim, 3466 (When you attempt to straighten it, you would break it. And if you leave her alone you would benefit by her, and crookedness will remain in her)</info>
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>Which are the great Islamic destructive sins?</content>
+      <answers>
+        <answer correct="false" option="a">Worship other than Allah, sorcery, (Murder)</answer>
+        <answer correct="false" option="b">Interest, eat up the property of an orphan</answer>
+        <answer correct="false" option="c">desertion from battlefield, Accuse innnocent woman of adultery</answer>
+        <answer correct="true" option="d">all</answer>
+      </answers>
+      <info>(Bukhari. 82:840)</info>
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>Complete hadith: "The best charity is that given to a relative "who does ....."?</content>
+      <answers>
+        <answer correct="false" option="a">"who does really need it"</answer>
+        <answer correct="true" option="b">"Who does not like you"</answer>
+        <answer correct="false" option="c">"who does not spend it on haram"</answer>
+      </answers>
+      <info>(Fiqh-us-Sunnah, Volume 3, Number 100)</info>
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>What is better than giving charity and fasting according to Hadith Al-Tirmidhi 671?</content>
+      <answers>
+        <answer correct="true" option="a">Praising God</answer>
+        <answer correct="false" option="b">Following my sunnah</answer>
+        <answer correct="false" option="c">giving to the poor</answer>
+      </answers>
+      <info>"Praising God is better than giving charity, giving charity is better than fasting, and fasting is a protection from Hell."</info>
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>What three substances are the sins watched away with according to dua "Al-Istiftah"?</content>
+      <answers>
+        <answer correct="true" option="a">Rain water, snow, and hail</answer>
+        <answer correct="false" option="b">Water, Sand, Honesty</answer>
+      </answers>
+      <info>(Hadith Bukhari by Abu Huraira, Book 1, Volume 12, Hadith 711)</info>
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>What is the second portents of hour day?</content>
+      <answers>
+        <answer correct="true" option="a">Religious ignorance will prevail</answer>
+        <answer correct="false" option="b">Infidels will prevail</answer>
+        <answer correct="false" option="c">Kaaba will be destroyed</answer>
+      </answers>
+      <info>(Bukhari by Abu huraira, Volume 1, Book 3, Number 80)</info>
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>How tall was the prophet Adam (peace be upon him)?</content>
+      <answers>
+        <answer correct="false" option="a">3 cubics, b. , c. . Answer: c </answer>
+        <answer correct="false" option="b">10 cubics</answer>
+        <answer correct="true" option="c">60 cubics</answer>
+      </answers>
+      <info>(approx. 30meters, Bukhari by Abu Huraira v. 543)</info>
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>When will Allah define a child distiny to the angel?</content>
+      <answers>
+        <answer correct="true" option="a">when its in the womb of the mother</answer>
+        <answer correct="false" option="b">when its 6 months old</answer>
+        <answer correct="false" option="c">the day its born</answer>
+      </answers>
+      <info>(Sahir Muslim, Book 033, Number 6390)</info>
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>What four things is the angel instructed to write down when a child is in the womb?</content>
+      <answers>
+        <answer correct="true" option="a">a child's deeds, time of death, means of livelihood, whether it will be wretched or blessed in religion</answer>
+        <answer correct="false" option="b">a child's gender, time of birth, means of livelihood, whether he/she will be wretched or blessed in religion</answer>
+      </answers>
+      <info>(Bukhari 549)</info>
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>What was the colour of the "Holy Black Stone" when it came down from heaven as the prophet said?</content>
+      <answers>
+        <answer correct="true" option="a">White</answer>
+        <answer correct="false" option="b">Bronx</answer>
+        <answer correct="false" option="c">Gold</answer>
+      </answers>
+      <info>(Termethi 695)</info>
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>How many prayers is one prayer in Al Aqsa mosque equal to?</content>
+      <answers>
+        <answer correct="true" option="a">500</answer>
+        <answer correct="false" option="b">1000</answer>
+        <answer correct="false" option="c">10000</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>Complete the following " one prayer in "." is equal to 1000 prayers"</content>
+      <answers>
+        <answer correct="false" option="a">Al Fajr (morning prayer)</answer>
+        <answer correct="true" option="b">Al Masjid Al Nabawi</answer>
+        <answer correct="false" option="c">Lajla'tul qadr (Night of Qadr)</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>The Prophet has described a good companion as?</content>
+      <answers>
+        <answer correct="true" option="a">Musk Bearer</answer>
+        <answer correct="false" option="b">Yasmeen bearer</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>Mention 2 of the seven sins that doom one to Hell?</content>
+      <answers>
+        <answer correct="true" option="a">eating usury</answer>
+        <answer correct="true" option="b">eat the wealth of the orphan</answer>
+        <answer correct="true" option="c">fleeing from the battlefield</answer>
+        <answer correct="true" option="d">magic</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>green</type>
+      <section>Hadith</section>
+      <content>During Prophet Muhammed Meraj Trip to heaven he met 7 prophets, who are they?</content>
+      <answers>
+        <answer correct="true" option="a">Adam, Essa, Yehya, Youssuf, Haroun, Idrees, Moses and Abraham</answer>
+        <answer correct="false" option="b">Isa, Adam, Jacob, Ibrahim, Moses, Sulaiman, Lut</answer>
+      </answers>
+      <info>(Sahih Muslim 234)</info>
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>What is the name of the year in which the prophet's uncle and wife passed away?</content>
+      <answers>
+        <answer correct="false" option="a">The year of  Elephant</answer>
+        <answer correct="true" option="b">The Year of Grief</answer>
+      </answers>
+      <info>(a'am Al Huzun)</info>
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>Whom of the prophet's companion played a vital role in the defeat of the muslims in the Battle of Uhud before converting to Islam?</content>
+      <answers>
+        <answer correct="false" option="a">Salah Al-Dine</answer>
+        <answer correct="false" option="b">Hamza</answer>
+        <answer correct="true" option="c">Khalid ibn Al-Walid</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>Who was named the Master of Martyrs?</content>
+      <answers>
+        <answer correct="false" option="a">Salah- Al Dine</answer>
+        <answer correct="false" option="b">Khalid ibn Al Walid</answer>
+        <answer correct="true" option="c">Hamza ibn Abd al-Muttalib</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>What did the narrations of Ibn battuta give to the world?</content>
+      <answers>
+        <answer correct="false" option="a">He gave a full description of animals and humans behaviours</answer>
+        <answer correct="true" option="b">He gave us a bright and realistic view of cultural, political and social life in the world he lived in</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>Abdul Rahman Ibn Moa'aweya the last Umayyad King, fled from the Abbasids to Spain when they established their state, what was he named?</content>
+      <answers>
+        <answer correct="false" option="a">The desert</answer>
+        <answer correct="false" option="b">The run away</answer>
+        <answer correct="true" option="c">The Immigrant</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>What did the prophet Muhammed (peace be upon him) name Khaled Ibn Al Waleed?</content>
+      <answers>
+        <answer correct="false" option="a">The sword of Arabs</answer>
+        <answer correct="true" option="b">The Sword of Allah</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>At battle of Badr polytheist marched out calling for a duel, who was challenge?</content>
+      <answers>
+        <answer correct="false" option="a">Hamzah Ibn 'Abdul-Muttalib</answer>
+        <answer correct="false" option="b">Ali Ibn Abu Taalib</answer>
+        <answer correct="false" option="c">Ubaydah Ibn Al-Haarith</answer>
+        <answer correct="true" option="d">All of them</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>How many martyred was at the battle of Badr?</content>
+      <answers>
+        <answer correct="false" option="a">9</answer>
+        <answer correct="true" option="b">14</answer>
+        <answer correct="false" option="c">52</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>Which was the last battle of the prophet Muhammed (peace be upon him)?</content>
+      <answers>
+        <answer correct="false" option="a">Battle of Badr</answer>
+        <answer correct="true" option="b">Battle of Tabook</answer>
+      </answers>
+      <info>(included a muslim army of 30,000)</info>
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>What did Uthmaan Ibn `Affaan contribute with in the Battle of Tabook?</content>
+      <answers>
+        <answer correct="true" option="a">He prepared one third of the army from his own money</answer>
+        <answer correct="false" option="b">He gave all his wealth</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>What great commander burned his ships after landing in Spain and said to his soldiers "Where is the escape, The death is behind you, and the enemy is before you"?</content>
+      <answers>
+        <answer correct="false" option="a">Salah Al Din</answer>
+        <answer correct="true" option="b">Tarik Ibn Ziyad</answer>
+        <answer correct="false" option="c">Ibn Battuta</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>Whom of the great worriers did the prophet send in to fight the Quraish at the conquest of Makkah?</content>
+      <answers>
+        <answer correct="false" option="a">Hamza ibn Abdul-Muttalib</answer>
+        <answer correct="true" option="b">Khalid Ibn Walid</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>What did Abu Lahab's wife Umm Jamil used to through on the path of the prophets Muhammed (peace be upon him)?</content>
+      <answers>
+        <answer correct="false" option="a">Garbage</answer>
+        <answer correct="false" option="b">Glace</answer>
+        <answer correct="true" option="c">Thorn bushes</answer>
+      </answers>
+      <info>arabic: shouk)</info>
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>One of the worse enemies of the prophet Muhammed (peace be upon him) is Abdul Uzza, who was he?</content>
+      <answers>
+        <answer correct="false" option="a">Abu Sufiyan</answer>
+        <answer correct="true" option="b">Abu Lahab (his uncle)</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>In the 10th Century the muslim traveller "Ahmad Ibn Fadlan" described his meeting with the "Volga Vikings" and Hollywood produced a movie thereafter, which movie?</content>
+      <answers>
+        <answer correct="false" option="a">"The 12th Warrior"</answer>
+        <answer correct="true" option="b">The "13th Warrior"</answer>
+      </answers>
+      <info>a movie with Antonio Banderas as Ibn Fadlan (Ahmad ibn Fadlan ibn al-Abbas ibn Rasid ibn Hammad. The movie is a mix of truth and fiction)</info>
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>What city was the muslim's last kingdoms in Andalusia?</content>
+      <answers>
+        <answer correct="false" option="a">Mallorca</answer>
+        <answer correct="true" option="b">Granada</answer>
+        <answer correct="false" option="c">Valencia</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>Among the righteous caliphs, whose ruling period was the longest?</content>
+      <answers>
+        <answer correct="false" option="a">Abu Bakr</answer>
+        <answer correct="true" option="b">Uthman</answer>
+        <answer correct="false" option="c">Omar</answer>
+      </answers>
+      <info>(Uthman ibn Affan, 12 years)</info>
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>A Caliphs' daughter and the sister of three Caliphs and the wife of the Caliph, who is she?</content>
+      <answers>
+        <answer correct="true" option="a">Fatima the daughter of Abdul malik ibn Marwan</answer>
+        <answer correct="false" option="b">Aisha bint Abu Bakr</answer>
+        <answer correct="false" option="c">Granada</answer>
+      </answers>
+      <info>(Fatima the daughter of Abdul malik ibn Marwan, the sister of Al Waleed, Sulaiman and Hisham, the wife of Omar ibn Abdul Aziz)</info>
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>Which city had a population 50,000 and was the shining star of Andalucia?</content>
+      <answers>
+        <answer correct="false" option="a">Seville</answer>
+        <answer correct="true" option="b">Granada</answer>
+        <answer correct="false" option="c">Cordoba</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>One of the prophet's companion who suggested the idea of digging the trench in " the battle of Ahzab"was later on known as" the battle of Trench", who was he?</content>
+      <answers>
+        <answer correct="true" option="a">Salman Al Faresi</answer>
+        <answer correct="false" option="b">Salman Ibn Omair</answer>
+        <answer correct="false" option="c">Granada</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>What was the title given to Abdul Rahman Ibn Moa'aweya after defeating the Abbasids?</content>
+      <answers>
+        <answer correct="true" option="a">The Falcon of Quraish</answer>
+        <answer correct="false" option="b">The Falcon of Makkah</answer>
+        <answer correct="false" option="c">The Falcon of Andalus</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>Why did the Caliph Omar Ibn Al Khattab dismiss Khalid Ibn Al Waleed and banish him from leading the army despite the fact that he was a great leader?</content>
+      <answers>
+        <answer correct="true" option="a">Due Khalid disobeyed him in a war council</answer>
+        <answer correct="false" option="b">Due to his concern on people fascination with Khalid Ibn Al Waleed</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>Which battle mentioned in the Quran, where muslims bragged of a big number of soldiers and couldn't see how they would be defeated, but they almost lost the battle?</content>
+      <answers>
+        <answer correct="false" option="a">Battle of Hattin</answer>
+        <answer correct="true" option="b">Battle of Hunain</answer>
+        <answer correct="false" option="c">Battle of Tabouk</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>What time of the day did the battle of Badr take place?</content>
+      <answers>
+        <answer correct="true" option="a">Morning</answer>
+        <answer correct="false" option="b">Noon</answer>
+        <answer correct="false" option="c">Afternoon</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>With how many soldiers did Salah Al Din El Ayoubi conquer Al Quds while "Balian of Ibelin" was in it?</content>
+      <answers>
+        <answer correct="false" option="a">approx. 200,000</answer>
+        <answer correct="true" option="b">Unknown</answer>
+        <answer correct="false" option="c">1,400</answer>
+      </answers>
+      <info>(its has never been recorded, but sources say between 1,400 to 200,000 soldiers. Salah Al din's army was sufficient to scare Balian of Ibelin)</info>
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>Which Iraqi city was known as "The Dome of Islam"?</content>
+      <answers>
+        <answer correct="false" option="a">Baghdad</answer>
+        <answer correct="true" option="b">Al Basrah</answer>
+        <answer correct="false" option="c">Al Kufa</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>The city was the centre of learning and intellectual life in the world and known as the "City of Bibliophiles"- which city was it?</content>
+      <answers>
+        <answer correct="false" option="a"> Baghdad, Iraq</answer>
+        <answer correct="true" option="b">Cordoba, Spain</answer>
+        <answer correct="false" option="c">Granada</answer>
+      </answers>
+      <info>(Caliph AlHakam II Al Mustansir. bibliophiles: people who loves books)</info>
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>What building did Sultan Salahuddin Ayyubi (Saladin) in 577 A.H. convert into a hospital?</content>
+      <answers>
+        <answer correct="false" option="a">own house</answer>
+        <answer correct="true" option="b">a large Fatimid Palace</answer>
+        <answer correct="false" option="c">ancient city</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>The prophet Muhammed (peace be upon him) a arranged a race between two cities, what kind of race was it?</content>
+      <answers>
+        <answer correct="false" option="a">camel race</answer>
+        <answer correct="true" option="b">horse race</answer>
+        <answer correct="false" option="c">6 miles human race</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>What is the first Islamic currency?</content>
+      <answers>
+        <answer correct="false" option="a">Girsh</answer>
+        <answer correct="false" option="b">Dirham</answer>
+        <answer correct="true" option="c">Dinar</answer>
+      </answers>
+      <info>Dinar (in Gold)</info>
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>In which battle did Khaled bin Al Waleed kill Hormuz the commander of the persians?</content>
+      <answers>
+        <answer correct="false" option="a">Battle of Uhud</answer>
+        <answer correct="false" option="b">Battle of Mutah</answer>
+        <answer correct="true" option="c">Battle of Chains</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>Who ordered to establish the first Islamic fleet to limit the control of the Byzantines over the Mediterranean Sea?</content>
+      <answers>
+        <answer correct="false" option="a">Salah Al- Dine</answer>
+        <answer correct="true" option="b">Uthman ibn Affan</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>Whom of the prophet's companion was washed by Angels?</content>
+      <answers>
+        <answer correct="false" option="a">Abu Bakr Al sadique</answer>
+        <answer correct="false" option="b">Ali ibn Abi Taleb</answer>
+        <answer correct="true" option="c">Handalah ibn Abi Amer</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>Who was ordered to write the book the "Rihla" by Ibn Battuta?</content>
+      <answers>
+        <answer correct="true" option="a"> Ibn Juzayy</answer>
+        <answer correct="false" option="b">Ibn Khordadbeh</answer>
+        <answer correct="false" option="c">Abu Abdullah al-Bakri</answer>
+      </answers>
+      <info>(Ibn Battuta met a young man in Granada called Ibn Juzayy who was ordered by the Sultan to write the book)</info>
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>The muslim worrior Khalid Ibn Walid conqured many cities and countries- who was his right hand?</content>
+      <answers>
+        <answer correct="false" option="a">Sa'd bin Abi Waqas</answer>
+        <answer correct="true" option="b">Al Qaqaa Ibn Amr el Tamimi</answer>
+        <answer correct="false" option="c">Salamah bin Qais</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>"Cry as a woman for a kingdom you fail to protect as a man" is a famous saying by Ayesha the mother of Muhammed the 12th king of Andalucia, what was the occasion?</content>
+      <answers>
+        <answer correct="false" option="a">The Fall of Europe</answer>
+        <answer correct="false" option="b">The Fall of arabs</answer>
+        <answer correct="true" option="c">The Fall of Granada</answer>
+      </answers>
+      <info>(she said that when she saw her son Muhammed the 12th crying after loosing his kingdom)</info>
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>In which battle where the Andalucians defeated and stopped from further Muslim conquest in Europe?</content>
+      <answers>
+        <answer correct="true" option="a">The battle of Poities</answer>
+        <answer correct="false" option="b">The battle of Toluz</answer>
+        <answer correct="false" option="c">Dinar</answer>
+      </answers>
+      <info>(fought in an area between the cities of Poitiers and Tours)</info>
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>Who was the first to be nicknamed "The Prince of believers"?</content>
+      <answers>
+        <answer correct="false" option="a">Hamza</answer>
+        <answer correct="false" option="b">Sufiyan</answer>
+        <answer correct="true" option="c">Omar</answer>
+      </answers>
+      <info>(Omar Ibn Al Khattab</info>
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>Abd al-Rahman 1 (Abd al-Rahman ibn Mu'awiya) fought the Franks and lost the war, but who where they?</content>
+      <answers>
+        <answer correct="true" option="a">Confederation of Germanic tribes</answer>
+        <answer correct="false" option="b">French people</answer>
+        <answer correct="false" option="c">Dinar</answer>
+      </answers>
+      <info>(England, Sweden, Scandinavia, Germany, Austria, Switzerland, Northern Italy, Holland, Belgium, Luxembourg, North and C.France, N. and S.Scotland)</info>
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>What was the color of the Abbasid state flag?</content>
+      <answers>
+        <answer correct="false" option="a">White</answer>
+        <answer correct="true" option="b">Black</answer>
+        <answer correct="false" option="c">Green</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>What is the name of the battle won by the Mamluks to the Monguls in 1260?</content>
+      <answers>
+        <answer correct="true" option="a">Battle of Ain Jalut</answer>
+        <answer correct="false" option="b">Battle of Ain Talout</answer>
+        <answer correct="false" option="c">Battle of the Moguls</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>In which battle was Al Hussain Ibn Ali Ibn Abi Talib killed?</content>
+      <answers>
+        <answer correct="false" option="a">Battle of Nahrawan</answer>
+        <answer correct="true" option="b">Batlle of Karbala</answer>
+        <answer correct="false" option="c">Battle of the camel</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>When was the world's first hospital build by Abbasid Caliph Harun-al-Rashid?</content>
+      <answers>
+        <answer correct="false" option="a">6th century</answer>
+        <answer correct="true" option="b">9th Century</answer>
+        <answer correct="false" option="c">13th century</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>What is the original battle name between Arab Muslims and Sassanid armies designated as "The Greatest Fateh" also know by arabs as the battle of "Victory of Victories in the history of Islam?</content>
+      <answers>
+        <answer correct="false" option="a">he battle of Plataea</answer>
+        <answer correct="true" option="b">The Battle of Nahavand</answer>
+        <answer correct="false" option="c">The Battle of al-Qadisiyyah</answer>
+      </answers>
+      <info>(Answer "a" took place in 479 BC, "b" in 642 AD, "c" in 636 AD)</info>
+    </question>
+    <question>
+      <type>yellow</type>
+      <section>Islamic History</section>
+      <content>One of the muslim commanders who's most known for his famous saying to the persian commander " We came to bring out the people from injustice of other religions to the justice of Islam?</content>
+      <answers>
+        <answer correct="false" option="a">Khalid bin Waleed</answer>
+        <answer correct="true" option="b">Rabie Ibn Amer</answer>
+        <answer correct="false" option="c">Amr bin Al-Aas</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>What drove muslim scientist to flurish in the golden years of Islamic civilization?</content>
+      <answers>
+        <answer correct="false" option="a">The desire to conqure the world</answer>
+        <answer correct="false" option="b">The desire to prove them self worthy for paradise</answer>
+        <answer correct="true" option="c">The desire to improve humankind's comfort and wellbeing</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>What is "arabesque"?</content>
+      <answers>
+        <answer correct="false" option="a">The shape of the stars position</answer>
+        <answer correct="true" option="b">Geometric patterns of Islamic art</answer>
+        <answer correct="false" option="c">Arabic font style</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>How many lunar months is there in the islamic calendar?</content>
+      <answers>
+        <answer correct="false" option="a">10</answer>
+        <answer correct="false" option="b">11</answer>
+        <answer correct="true" option="c">12</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>Who surpasses his near-contemporary Marco Polo and reached a distance of 121,000 km?</content>
+      <answers>
+        <answer correct="false" option="a">Salah Al- Dine</answer>
+        <answer correct="true" option="b">Abu Abdullah Muhammad Ibn Battuta</answer>
+        <answer correct="false" option="c">H. Amar Ali Meftah</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>What symbols did Al-Khawarazmi substitut numbers with in Algebra in order to solve a problem?</content>
+      <answers>
+        <answer correct="false" option="a">A, B and C</answer>
+        <answer correct="true" option="b">X, Y and Z</answer>
+        <answer correct="false" option="c">L, M and N</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>What were following muslim figures: Jabir bin Hayyan, Zakariya Razi (Rhzes), Ibn Sina (Avicenna), Tabari and Majusi?</content>
+      <answers>
+        <answer correct="false" option="a">Historians</answer>
+        <answer correct="false" option="b">Commanders</answer>
+        <answer correct="true" option="c">Medical theorists/Scientists</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>What latin name was Ibn Sina known under?</content>
+      <answers>
+        <answer correct="false" option="a">Alesina</answer>
+        <answer correct="true" option="b">Avicenna</answer>
+        <answer correct="false" option="c">Avvocina</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>Who was Richard Frye (a respectable American scholar) refering to when he said that this person must be mentioned since he was one of the greatest scientists in World History"</content>
+      <answers>
+        <answer correct="false" option="a">Abu Bakr</answer>
+        <answer correct="true" option="b">Al-Biruni</answer>
+        <answer correct="false" option="c">Tariq Ibn Ziyad</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>The scholar Al-Jahiz wrote a book of zoology which later influenced Charles Darwing, what is the name of the book?</content>
+      <answers>
+        <answer correct="false" option="a">The book of blue donkeys</answer>
+        <answer correct="true" option="b">The book of animals</answer>
+        <answer correct="false" option="c">The miracles in Animals</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>Al Damiri was influenced by Al Jahiz description of animals and wrote about the behaviour of the animals- what was the name of his book?</content>
+      <answers>
+        <answer correct="true" option="a">The Life of Animals</answer>
+        <answer correct="false" option="b">The life of unknown</answer>
+        <answer correct="false" option="c">The king of Jungles</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>Who is the famous scholar born on 1299 A.H and author of "Al-Lu'lu Wal-Marjaan" and wrote an index of classified Ayahs of the Quran?</content>
+      <answers>
+        <answer correct="false" option="a">Wilhem Ibrahim Al-Barqi</answer>
+        <answer correct="true" option="b">Muhammed Fuad Abdul Baqi</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>What is the nickname of the  Muslim scholar Ibn Taymia?</content>
+      <answers>
+        <answer correct="false" option="a">Noor Al-Islam</answer>
+        <answer correct="false" option="b">Abu Al-Islam</answer>
+        <answer correct="true" option="c">Shaikh Al-Islam</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>Ibn Al-Qaiem Al-Jawziya was a talented scientist (astronomer, chemist, philosopher, psychologist, scientist and theologian) in the 13th AD, what is he known for?</content>
+      <answers>
+        <answer correct="false" option="a">Excellent manner and Comprehensive knowledge of Hadith</answer>
+        <answer correct="false" option="b">His kindness and Recognized that the stars are much larger than the planets</answer>
+        <answer correct="true" option="c"> All</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>Which Tunisian historian and philosopher redefined the knowledge of "sociology"?</content>
+      <answers>
+        <answer correct="false" option="a">Syed Muhammad al Naquib bin Ali al-Attas</answer>
+        <answer correct="true" option="b">Ibn Khaldun</answer>
+        <answer correct="false" option="c">Al-Rumi</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>What is the first of the seven books of  the compile of "universal history" by Ibn Khaldoun?</content>
+      <answers>
+        <answer correct="false" option="a">Nihaya ibn Khaldun (Ibn Khaldun's Ending)</answer>
+        <answer correct="true" option="b">Mu'qaddimah Ibn Khaldun (Ibn Khaldun's Introduction)</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>What title did the English Philosopher Francis Bacon? give to scientist Jaber ibn Hayyan?</content>
+      <answers>
+        <answer correct="false" option="a">The chemist</answer>
+        <answer correct="true" option="b">The Father of Chemistry</answer>
+        <answer correct="false" option="c">The Father of Chemistry</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>In 777 AH muslims improved a Greek invention called "The armilalary Sphere"- what is the fuction of this instrument?</content>
+      <answers>
+        <answer correct="true" option="a">an astronomical instrument</answer>
+        <answer correct="false" option="b">Surgical instrument</answer>
+        <answer correct="false" option="c">Geometrical Instrument</answer>
+      </answers>
+      <info>(a tool showing the heavens movements and the differences between Ptolemaic and Copernican theories of the SolarSystem)</info>
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>What could the Islamic Astrolab do?</content>
+      <answers>
+        <answer correct="false" option="a">Determin boiling time</answer>
+        <answer correct="true" option="b">It could determin the prayer time</answer>
+        <answer correct="false" option="c">Show milliseconds</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>What could the islamic quadrant do?</content>
+      <answers>
+        <answer correct="false" option="a">Measure the sea above its normal level</answer>
+        <answer correct="true" option="b">Measure the angle of the moon above the horizon</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>Which period did Islamic Knowledge and Innovation flurish?</content>
+      <answers>
+        <answer correct="false" option="a">1st- 3rd Century</answer>
+        <answer correct="true" option="b">3rd -7th Century</answer>
+        <answer correct="false" option="c">6th -16th Century</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>A Moorish poet described this palace as "a pearl set in emeralds"- which one is it?</content>
+      <answers>
+        <answer correct="false" option="a">Cordoba palace</answer>
+        <answer correct="true" option="b">The Alhambra</answer>
+        <answer correct="false" option="c">Citadel Castle (The Saladin Citadel of Cairo)</answer>
+      </answers>
+      <info>(The Moors: Berber and Arab descent)</info>
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>Who is the founder of "Al Jebra" and considered to be one of the greatest scientists in the world?</content>
+      <answers>
+        <answer correct="false" option="a"> Ibn Khaldun</answer>
+        <answer correct="true" option="b">Mu?ammad ibn Musa al-Khwarizmi</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>One of Al-Jazari's famous invention is?</content>
+      <answers>
+        <answer correct="false" option="a">Water Clock</answer>
+        <answer correct="false" option="b">Water Bed</answer>
+        <answer correct="false" option="c">Water Fountains</answer>
+        <answer correct="true" option="d">Water Mill</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>Chinese were reluctant to share their secrets of writing materials, but muslims got hold of some of them and introduced two inventions to the western world - what is it?</content>
+      <answers>
+        <answer correct="false" option="a"> Gun Powder and Ink</answer>
+        <answer correct="true" option="b">Ink and Paper</answer>
+        <answer correct="false" option="c">Firecrackers and Ink</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>What was the world's first health care institution established by muslims?</content>
+      <answers>
+        <answer correct="true" option="a">Hospital</answer>
+        <answer correct="false" option="b">an Elderly house</answer>
+        <answer correct="false" option="c">Pharmacy Center</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>What did muslim doctors use as painkiller treatment under surgeries in the Islamic Golden Age?</content>
+      <answers>
+        <answer correct="false" option="a">Alcohol</answer>
+        <answer correct="true" option="b">Hashish</answer>
+        <answer correct="false" option="c">Opium</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>Who wrote the world most respectable medicine book "Kitab al-Tasrif"/"The Method of Medicine", a thirty-volume encyclopedia of medical practices?</content>
+      <answers>
+        <answer correct="false" option="a">Avecinna</answer>
+        <answer correct="true" option="b">Al-Zahrawi</answer>
+      </answers>
+      <info>(Abu al-Qasim Khalaf ibn al-Abbas Al-Zahrawi (9361013). An Arab physician who lived in Al-Andalus and known as Abulcasis)</info>
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>What is the name of one of the greatest and most famous books of Imam Shafeie in Fiqh (jurisprudence)?</content>
+      <answers>
+        <answer correct="true" option="a">Al-Umm</answer>
+        <answer correct="false" option="b">Figh Al-Islam</answer>
+        <answer correct="false" option="c">Figh Al-Umma</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>Who is the author of "Riad Al Saliheen"?</content>
+      <answers>
+        <answer correct="true" option="a">Al-Imam Al-Nawawi</answer>
+        <answer correct="false" option="b">Al-Imam Al-Bukhari</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>What are the sacred months?</content>
+      <answers>
+        <answer correct="true" option="a">Muharam (first month)</answer>
+        <answer correct="true" option="b">Rajab (seventh month)</answer>
+        <answer correct="true" option="c">Thu Al-Qa'dah (eleventh month)</answer>
+        <answer correct="true" option="d">Thu Al-Hijja (twelfth month)</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>Who wrote the book "Ih'ya Ulum ad-Din" or "The Revival of the Religious Sciences"?</content>
+      <answers>
+        <answer correct="false" option="a">Al- Tabari</answer>
+        <answer correct="false" option="b">Ibn Taimiya</answer>
+        <answer correct="true" option="c">Al-Ghazali</answer>
+      </answers>
+      <info>(Al-Ghazali wrote the book and it is regarded as one of the greatest spiritual books after the Quran)</info>
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>Al-Farsari, Habash, Al-Khwarizmi, Al-Farghani, Al-Zargallu, Ibn Saaraj and Al-khujandi wereknown for further developing the Greek Astrolap, but what did they improve?</content>
+      <answers>
+        <answer correct="true" option="a">shadow squares</answer>
+        <answer correct="true" option="b">trigonometric grids on the back</answer>
+        <answer correct="true" option="c">azimuth curves on the plates for latitudes</answer>
+        <answer correct="true" option="d">Universal plate for horizon</answer>
+        <answer correct="true" option="e">markings of equatorial and ecliptic cordinates</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>Abu al-Qasim al-Zah'rawi (Abulcasis) invented many of todays surgical intruments, but what is the most common product used on a daily basis?</content>
+      <answers>
+        <answer correct="false" option="a">Chicken Scessior</answer>
+        <answer correct="true" option="b">Plaster bandage</answer>
+        <answer correct="false" option="c">Pincer</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>Al Jazari was a 12th century scientist and?</content>
+      <answers>
+        <answer correct="false" option="a">Physician and Optician</answer>
+        <answer correct="true" option="b">Writer and Engineer</answer>
+        <answer correct="false" option="c">Army General and Poet</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>Which Muslim Mechanical Engineer was compared equally to Leonardo Da Vinci?</content>
+      <answers>
+        <answer correct="true" option="a">Al-Jazari</answer>
+        <answer correct="false" option="b">Avicenna(Ibn Sina)</answer>
+        <answer correct="false" option="c">Abu Rayhan al-Biruni</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>Which astronomists improved Ptolemy's view of the positioning of the earth in the universe?</content>
+      <answers>
+        <answer correct="true" option="a">Al-Battani (850-929)</answer>
+        <answer correct="true" option="b">Al-Biruni (973-1048)</answer>
+        <answer correct="true" option="c">Al-Sufi (903-986)</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>Cleansing wounds was a crtical and fatal issue in Europe- what unheard practice did Al-Zahrawi (also known as Abulcasis) introduce to Eurpopean doctors?</content>
+      <answers>
+        <answer correct="false" option="a">Hashish</answer>
+        <answer correct="true" option="b">Antiseptics</answer>
+        <answer correct="false" option="c">Bandages</answer>
+      </answers>
+      <info>(substance derived from herbs to kill germs)</info>
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>One of the greatest scholars of the Islamic era was well versed in maths, astronomy, physics and natural sciences and named Al Ustdadh"/"The Master", who was he?</content>
+      <answers>
+        <answer correct="true" option="a">Al-Biruni</answer>
+        <answer correct="false" option="b">Avicenna</answer>
+        <answer correct="false" option="c">Al-Zahrawi</answer>
+      </answers>
+      <info>(Abu al-Rayhan Muhammad Ibn Ahmad Al-Biruni)</info>
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>Name the 4th part of  Ibn Sina's "The Book of Healing" /"Kitab Al Shifa" which includes: logic, natural sciences, mathematics and metaphysics, what is?</content>
+      <answers>
+        <answer correct="false" option="a"> Hearbs and Medicin</answer>
+        <answer correct="true" option="b">Sciene and Philosophy</answer>
+        <answer correct="false" option="c">Science and Orthopedagogy</answer>
+        <answer correct="false" option="d">Astronomy and Physics</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>What is the first chapter in the Sahih Imam Bukhari?</content>
+      <answers>
+        <answer correct="true" option="a">Beginning of the End</answer>
+        <answer correct="false" option="b">Commencement of the revelation</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>600 years ago Al-Jawziya wrote a book called "Prophetic Medicine" covering healing methods based on references and guidance of who?</content>
+      <answers>
+        <answer correct="false" option="a">Isa (Jesus), Musa (Moses) and Muhammed</answer>
+        <answer correct="true" option="b">Prophet Muhammed (Peace be upon him)</answer>
+        <answer correct="false" option="c">All the prophets (peace be upon them all)</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>Who was the first to write on Islamic Figh?</content>
+      <answers>
+        <answer correct="false" option="a">Imam Ahmad ibn Hanbal</answer>
+        <answer correct="false" option="b">Abu Hanifa  ibn Thabit</answer>
+        <answer correct="false" option="c">Imam Shafi'i</answer>
+        <answer correct="true" option="d">Malik Ibn Anas</answer>
+      </answers>
+      <info>(Imam shafi's full name is very long. One of his grandfather's Abd Manaf was the great great grandfather of Muhammed (s.a.w)</info>
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>Who was the first great astronomer in Islam at the Abbasid court of the Caliph Harun Al-Rashid?</content>
+      <answers>
+        <answer correct="false" option="a">Ibrahim ibn Sinan</answer>
+        <answer correct="true" option="b">Al-Fazari</answer>
+        <answer correct="false" option="c">Ahmed Muhiddin Piri</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>What is it that Al-Hassan Ibn Al-Haitham realized about the light rays in humans eyes?</content>
+      <answers>
+        <answer correct="false" option="a">Light entered in the eyes is automatically strengthen by four</answer>
+        <answer correct="true" option="b">light rays are not emitted from the eye, but they enter into it</answer>
+        <answer correct="false" option="c">Lights coming out of eyes allows us to see</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>orange</type>
+      <section>Islamic Science</section>
+      <content>Who was the first to invent the first pendulum in the 9th Century and discovered the laws of it before the Italian Galileo?</content>
+      <answers>
+        <answer correct="false" option="a">Al-Biruni</answer>
+        <answer correct="true" option="b">Ibn Younis Al-Masri</answer>
+        <answer correct="false" option="c">Muhammed Al-Idrisi</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>On the "Isra and Miraaj" night on what level of heavens did the prophet Muhammed meet the Prophet Mossa?</content>
+      <answers>
+        <answer correct="false" option="a">5th heaven</answer>
+        <answer correct="true" option="b">6th heaven</answer>
+      </answers>
+      <info>(1st level: Adam, 2nd level: Isa/Jesus,  3rd level: Yusuf, 4th level: Idris, 5th level: Harun, 6th level: Moses, 7th level: Ibrahim peace be upon the all)</info>
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>What does Allah gain from his creatures?</content>
+      <answers>
+        <answer correct="false" option="a">Clory</answer>
+        <answer correct="false" option="b">Respect</answer>
+        <answer correct="true" option="c">Nothing</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>What kind of prayer represent four standig "takbir/takbirat" followed by "taslim"?</content>
+      <answers>
+        <answer correct="false" option="a">Salah Al-Eid</answer>
+        <answer correct="true" option="b">Salah Al-Janazah or prayer for the deceased</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>How many languages is the Quran translated to?</content>
+      <answers>
+        <answer correct="false" option="a">46</answer>
+        <answer correct="false" option="b">93</answer>
+        <answer correct="true" option="c">103</answer>
+        <answer correct="false" option="d">183</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>What are the basic pillars of islam?</content>
+      <answers>
+        <answer correct="true" option="a">Shahada, Prayer, Fasting, Alms-giving, Pilgrimage</answer>
+        <answer correct="false" option="b">Shahada, believe in Angels, Prayer, Hajj, believe in the Judgement day, Pilgrimage</answer>
+        <answer correct="false" option="c">Shahada, Prayer, Believe in the prophets, Alms-giving, Pilgrimage, believe in Paradise and Hell</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>Name the greatest place in the heaven which the prophet Muhammed whished to be his?</content>
+      <answers>
+        <answer correct="true" option="a">Al-Waseela</answer>
+        <answer correct="false" option="b">Al- Jamila</answer>
+        <answer correct="false" option="c">Al-Aree'tha</answer>
+      </answers>
+      <info>(its only promissed to one person)</info>
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>The Prophet had 4 daughters with Khradijah, but how many son's did she give birth to?</content>
+      <answers>
+        <answer correct="false" option="a">none</answer>
+        <answer correct="false" option="b">1</answer>
+        <answer correct="true" option="c">3</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>What was the ancient name of the city "Al Medina" in Saudi Arabia called?</content>
+      <answers>
+        <answer correct="false" option="a">The prophets Head Quater</answer>
+        <answer correct="true" option="b">Yathreb</answer>
+        <answer correct="false" option="c">both</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>Who did the sultan of Morocco order to write down the persons own experience for the sultan family's amusement?</content>
+      <answers>
+        <answer correct="false" option="a">Tariq ibn Ziyad</answer>
+        <answer correct="true" option="b">Ibn Battuta</answer>
+        <answer correct="false" option="c">Salah Al Dine</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>Complete the qoute: The Person Who Recites Quran in Secret "___"?</content>
+      <answers>
+        <answer correct="true" option="a">is Like He Who gives Charity in Secret</answer>
+        <answer correct="false" option="b">is like He who bring charity to table</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>What was Hubal for the pagans in Makkah?</content>
+      <answers>
+        <answer correct="true" option="a">The Pricipal Idol</answer>
+        <answer correct="false" option="b">Allah (God)</answer>
+        <answer correct="false" option="c">the God of War</answer>
+      </answers>
+      <info>there is no proof of how it was considered, but Hubal was the biggest Idol)</info>
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>How many Scholars of Jurisprudence or mathab is their in islam?</content>
+      <answers>
+        <answer correct="false" option="a">2</answer>
+        <answer correct="true" option="b">4</answer>
+        <answer correct="false" option="c">6</answer>
+      </answers>
+      <info>(Imam Abu Hanifa, Imam Malik, Imam Shafi, Imam Hanbal)</info>
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>Name the first four khalifas in chronological order?</content>
+      <answers>
+        <answer correct="true" option="a">Abu Bakr, Omar ibn al-Khattab, Uthman ibn Affan, Ali ibn Abi Talib</answer>
+        <answer correct="false" option="b">Abu Bakr, Ali, Uthman, Omar</answer>
+        <answer correct="false" option="c">Abu Bakr, Omar, Uthman, Ali</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>What happened to the famous fire of Chosroes when the Prophet was born?</content>
+      <answers>
+        <answer correct="false" option="a">The fire got stronger</answer>
+        <answer correct="true" option="b">Blown out</answer>
+        <answer correct="false" option="c">The fire burned the city</answer>
+      </answers>
+      <info>(as a sign from Allah for this great day)</info>
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>How many muslims joined the battle of Badr?</content>
+      <answers>
+        <answer correct="true" option="a">314</answer>
+        <answer correct="false" option="b">3014</answer>
+        <answer correct="false" option="c">13014</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>Which pious person was mentioned in the Quran?</content>
+      <answers>
+        <answer correct="true" option="a">Thul'qarnain</answer>
+        <answer correct="true" option="b">Luqman</answer>
+        <answer correct="true" option="c">Aziz of Egypt</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>What is the real name of Abu Baker Al-Siddiq?</content>
+      <answers>
+        <answer correct="false" option="a">Amin Al-Siddiq</answer>
+        <answer correct="true" option="b">Abdullah ibn Abi Quhafa</answer>
+        <answer correct="false" option="c">Al Siddiq Ibn Auhafa</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>At the prophets (peace be upon him) time an incident happened and the companions called the year "the year of sorrow"- why?</content>
+      <answers>
+        <answer correct="true" option="a">Khadijah passed away (may Allah be pleased with her)</answer>
+        <answer correct="false" option="b">His Son passed away</answer>
+        <answer correct="false" option="c">Jajooj and Majooj digged a whole</answer>
+      </answers>
+      <info>(The Prophets Muhammed (peace be upon him) experienced deep sadness the year Khradijah (his wife) passed away)</info>
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>What is Islamic Polygamy marriage?</content>
+      <answers>
+        <answer correct="false" option="a">2 wifes</answer>
+        <answer correct="true" option="b">4 wifes</answer>
+        <answer correct="false" option="c">Unlimited wifes</answer>
+      </answers>
+      <info>(Polygamy marriage in Islam means a man has more than one wife at a time and up to a total of four)</info>
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>Somaiya bint Khayyat did something that no other muslim woman will ever be able to achieve- what was that?</content>
+      <answers>
+        <answer correct="true" option="a">She became the first muslim female martyr</answer>
+        <answer correct="false" option="b">She saw the prophet in great happiness</answer>
+        <answer correct="false" option="c">She faught in a great battle</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>Name the two blessed tree as per the holy Quran?</content>
+      <answers>
+        <answer correct="false" option="a">Apple and Palm Tree</answer>
+        <answer correct="true" option="b">Palm and Olive Tree</answer>
+        <answer correct="false" option="c">Fig and Palm Tree</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>What did the muslim explorer's came to know that some Africans used Cowry Shells for?</content>
+      <answers>
+        <answer correct="false" option="a">Valuable asset</answer>
+        <answer correct="true" option="b">Currency</answer>
+        <answer correct="false" option="c">Jewllery</answer>
+      </answers>
+      <info>(its als worn and viewed as sympol for womanhood,fertility, birth and wealth)</info>
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>What game was introduced to Europe called "The Sport of Kings"?</content>
+      <answers>
+        <answer correct="false" option="a">Wrestling</answer>
+        <answer correct="false" option="b">Petanque</answer>
+        <answer correct="true" option="c">Polo sports</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>What sport was the most popular at the time of the Ottoman Empire?</content>
+      <answers>
+        <answer correct="false" option="a">Polo Sport</answer>
+        <answer correct="false" option="b">Horse racing</answer>
+        <answer correct="true" option="c">Wrestling</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>What is the view of tobacco is islam?</content>
+      <answers>
+        <answer correct="false" option="a">Allowed</answer>
+        <answer correct="false" option="b">Makrouh</answer>
+        <answer correct="true" option="c">Haram</answer>
+      </answers>
+      <info>(Growing, trading in and smoking of tobacco are judged to be haram (forbidden) by the Permanent Committee of Academic Research and Fatwa, Saudi Arabia)</info>
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>Who came up with the exact words for what to say at the calling for prayer?</content>
+      <answers>
+        <answer correct="false" option="a">Muhammed (peace be upon him)</answer>
+        <answer correct="true" option="b">Bilal Ibn Rabah (May Allah be pleased with him)</answer>
+        <answer correct="false" option="c">Abu Bakr (May Allah be pleased with him)</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>Who proposed the idea "Calling for Prayer" or " Athaan" to the Prophet?</content>
+      <answers>
+        <answer correct="true" option="a">Omar Ibn Al Khattab</answer>
+        <answer correct="false" option="b">Bilal Ibn Rabah (May Allah be pleased with them)</answer>
+        <answer correct="false" option="c">Abu Bakr Al Siddiq</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>"Sohaib won, Sohaib won" it's a famous phrase said by the Prophet to his companion what was the occasion?</content>
+      <answers>
+        <answer correct="true" option="a">Sohaib Al Roumi gave all of his money to Quraish in exchange to migrate with the prophet to Madina</answer>
+        <answer correct="false" option="b">Sohaib won a major personal battle</answer>
+        <answer correct="false" option="c">Sohaib killed a vicious king and ran away to Madina</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>Amr Ibn Al-Aass chased the Muslims who immigrated to Abyssinia and tried to convince the King of Abyssinia to hand him over the muslims, what is  the name of the king?</content>
+      <answers>
+        <answer correct="false" option="a">Saifu king of Axum</answer>
+        <answer correct="true" option="b">A??ama ibn Abjar</answer>
+        <answer correct="false" option="c">Kwastantinos</answer>
+      </answers>
+      <info>(the land is known as Ethiopia and the king also known as Al-Najashi)</info>
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>How old was the prophet Muhammed (peace be upon him) when he fought in battle of badr?</content>
+      <answers>
+        <answer correct="false" option="a">42</answer>
+        <answer correct="false" option="b">49</answer>
+        <answer correct="true" option="c">53</answer>
+      </answers>
+      <info>(badr: 624 AD and the prophet was born 571 AD)</info>
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>How many names of Angels are known to Muslims?</content>
+      <answers>
+        <answer correct="false" option="a">4</answer>
+        <answer correct="false" option="b">7</answer>
+        <answer correct="true" option="c">10</answer>
+      </answers>
+      <info>(Jibraeel, Meekaeel, Haroot, Maroot, Israfeel, Munkar, Nakeer, Malik Al-Mout, Malik and Redwan)</info>
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>Who are the 2 of the 4 women of mankind?</content>
+      <answers>
+        <answer correct="true" option="a">Mariam the daughter of Imran and Asiya the wife of Pharaoh (may Allah be pleased with them)</answer>
+        <answer correct="false" option="b">Hafsa bint Umar and Nassiba bint Umair (may Allah be pleased with them)</answer>
+      </answers>
+      <info>(other 2 ladies: Khadijah the daughter of Khuwayled, Fatima the daughter of the prophet)</info>
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>What was the prophet Muhammed's two most favourit fruits?</content>
+      <answers>
+        <answer correct="false" option="a">Dates and Tomato</answer>
+        <answer correct="true" option="b">Wattermelon and Grapes</answer>
+        <answer correct="false" option="c">Honey Melon and Apples</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>The prophet used to eat a delicatese that is today considered as fashion/Goumet food in most of the Italian restaurants and others- what is it?</content>
+      <answers>
+        <answer correct="false" option="a">Caspaccio meat</answer>
+        <answer correct="false" option="b">Goat Cheese</answer>
+        <answer correct="true" option="c">Vinegar with Olive Oil</answer>
+      </answers>
+      <info>(now a days know by Balsamic Vinegar with Olive Oil)</info>
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>When the prophet passed a numbers of engels in heaven they all told him to tell his people to...what?</content>
+      <answers>
+        <answer correct="false" option="a">Prayer (Salah)</answer>
+        <answer correct="false" option="b">Give to the poor (Zakat)</answer>
+        <answer correct="true" option="c">Cupping (Hijaama)</answer>
+      </answers>
+      <info>(allowing out a small amount of blood from an incision by using a vacuumed cup for healing purposes)</info>
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>How many idols where known to be worshiped in the kaaba before islam?</content>
+      <answers>
+        <answer correct="false" option="a">112</answer>
+        <answer correct="false" option="b">223</answer>
+        <answer correct="true" option="c">360</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>What did Al-Lat , Al-Uzzah and Hubal have in common?</content>
+      <answers>
+        <answer correct="false" option="a">Greek Gods</answer>
+        <answer correct="true" option="b">Stone Gods</answer>
+        <answer correct="false" option="c">Moon Gods</answer>
+      </answers>
+      <info>(Al-Lat "the Goddess", Al-Uzzah "the Mighty", Hubal "the moon god")</info>
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>What is the Kinship between Omar Ibn Al-Khattab and Khaled Ibn Al-Waleed?</content>
+      <answers>
+        <answer correct="true" option="a">They are Cousins</answer>
+        <answer correct="false" option="b">The are brothers</answer>
+        <answer correct="false" option="c">The have same father</answer>
+        <answer correct="false" option="d">They are from same tribe</answer>
+      </answers>
+      <info>(May Allah be pleased with both of them)</info>
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>One of the Prophet companion known as "the flying martyr" had the same facial appearance as the prophet Muhammed (peace be upon him), who is he?</content>
+      <answers>
+        <answer correct="true" option="a">Jaafar Ibn Abi Talib</answer>
+        <answer correct="false" option="b">Jaafar Abi Khazraji</answer>
+        <answer correct="false" option="c">Jafar Ibn Abi Mutalib</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>To whom did the Prophet say "You resemble to me with your manners and your figure or appearance"?</content>
+      <answers>
+        <answer correct="true" option="a">Jaafar Ibn Abi Talib (May Allah be pleased with him)</answer>
+        <answer correct="false" option="b">Ali Ibn Abi Talib (May Allah be pleased with him)</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>What is the highest echelons of faith?</content>
+      <answers>
+        <answer correct="false" option="a">Islam</answer>
+        <answer correct="true" option="b">Ihsan</answer>
+        <answer correct="false" option="c">Imaan</answer>
+      </answers>
+      <info>(echelons: level or rank. There are 2 levels of Ihsan: 1. Worshipping Allah as if we can see Him, 2. Being aware that Allah sees all of our deeds and acting accordingly)</info>
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>Who wrote the terms and conditions of Hudibeia treaty?</content>
+      <answers>
+        <answer correct="false" option="a">Abu Bakr Al Siddiq</answer>
+        <answer correct="true" option="b">Ali Ibn Abi Talib</answer>
+        <answer correct="false" option="c">Omar Ibn Al Khattab</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>What did the prophet predict when Suraqa Ibn Malik asked for a "warrant of security"?</content>
+      <answers>
+        <answer correct="false" option="a">He will wear the the crown of Roman Empror</answer>
+        <answer correct="true" option="b">He will wear the Chosroes Bracelets</answer>
+      </answers>
+      <info>(Persia was defeated and Suraqa was called in by Omar who dressed him with the royal dress of the Persian king Chosroes/Anushirvan)</info>
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>Who is the angel entrusted of Heaven?</content>
+      <answers>
+        <answer correct="false" option="a">Israfil</answer>
+        <answer correct="false" option="b">Malik</answer>
+        <answer correct="true" option="c">Redwan</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>red</type>
+      <section>General Knowledge</section>
+      <content>Which camel is named the camel of Allah?</content>
+      <answers>
+        <answer correct="false" option="a">The camel sent to the prophet Muhammed (peace be upon him)</answer>
+        <answer correct="true" option="b">The camel sent to the Prophet Salih (peace be upon him)</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>How many wife's did the prophet David (peace be upon him) have?</content>
+      <answers>
+        <answer correct="false" option="a">10</answer>
+        <answer correct="false" option="b">25</answer>
+        <answer correct="true" option="c">100</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>At a young age the prophet Mohamed (peace be upon him) met a Christian monk called "Bahira" while accompanying a Meccan caravan to Syria, what did the monk say?</content>
+      <answers>
+        <answer correct="true" option="a">That he was going to be a prophet of God and be careful of the Jews over him</answer>
+        <answer correct="false" option="b">That he will fight the romans and change the world</answer>
+        <answer correct="false" option="c">That he is danger and most be protected</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>Among the people whom did the prophet Muhammed (peace be upon him) love the most?</content>
+      <answers>
+        <answer correct="true" option="a">Ayesha (his wife, may Allah be please with her)</answer>
+        <answer correct="false" option="b">Abu Bakr (best friend, may Allah be please with him)</answer>
+        <answer correct="false" option="c">Hamza (his uncle, may Allah be please with him)</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>What was the prophet Muhammed's (peace be upon him) Apple of eye?</content>
+      <answers>
+        <answer correct="true" option="a">prayer</answer>
+        <answer correct="false" option="b">his people</answer>
+        <answer correct="false" option="c">muslims</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>WAmong the Prophet's (peace be upon him) wives, whom of them were unmarried?</content>
+      <answers>
+        <answer correct="true" option="a">Ayesha Bent Abi Baker</answer>
+        <answer correct="true" option="b">Khadija bent Khuwailed</answer>
+        <answer correct="false" option="c">Zaynab bint Jahsh</answer>
+        <answer correct="false" option="d">All of them</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>One of the Prophets who used to revive the dead as a miracle from Allah, who is he?</content>
+      <answers>
+        <answer correct="false" option="a">Musa (Moses, peace be upon him)</answer>
+        <answer correct="true" option="b">Issa (Jesus, peace be upon him)</answer>
+        <answer correct="false" option="c">Sulaiman (peace be upon him)</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>Name the Prophet who spoke in his cradle?</content>
+      <answers>
+        <answer correct="false" option="a">Muhammed (peace be upon him)</answer>
+        <answer correct="true" option="b">Issa (Jesus, peace be upon him)</answer>
+        <answer correct="false" option="c">Dawoud (David, peace be upon him)</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>How long did the Prophet Muhammed (peace be upon him) preach in secret?</content>
+      <answers>
+        <answer correct="false" option="a">5</answer>
+        <answer correct="true" option="b">3</answer>
+        <answer correct="false" option="c">2</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>Among all the Prophet's (peace be upon him) uncles who died as a martyr?</content>
+      <answers>
+        <answer correct="true" option="a">Hamza Ibn Abi Talib</answer>
+        <answer correct="false" option="b">Al-Abbas</answer>
+        <answer correct="false" option="c">Mugheera</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>Who is the Prophet (peace be upon him) who had Zamzam water coming from under his feet?</content>
+      <answers>
+        <answer correct="false" option="a">Muhammed (peace be upon him)</answer>
+        <answer correct="true" option="b">Ismail (peace be upon him)</answer>
+        <answer correct="false" option="c">Hajer (Ismail's mother peace be upon her)</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>Who was the first prophet after Adam (peace be upon him)?</content>
+      <answers>
+        <answer correct="true" option="a">Noah</answer>
+        <answer correct="false" option="b">Ibrahim</answer>
+        <answer correct="false" option="c">Yehya</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>How old was the Prophet Muhammed (peace be upon him) when he was sent with the message?</content>
+      <answers>
+        <answer correct="true" option="a">40 years old</answer>
+        <answer correct="false" option="b">25 years old</answer>
+        <answer correct="false" option="c">42 years old</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>What is the name of the desert where Prophet Moses (peace be upon him)  and his people lived in after they escaped from Pharaoh?</content>
+      <answers>
+        <answer correct="false" option="a">Nubian Desert</answer>
+        <answer correct="true" option="b">Sinai Desert</answer>
+        <answer correct="false" option="c">Kalahari Desert</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>Name the six prophets whom fathers are prophets?</content>
+      <answers>
+        <answer correct="false" option="a">Youssuf, Solaiman, Adam, Muhammed, Isa, Yaqoub</answer>
+        <answer correct="true" option="b">Youssuf, Ishaq, Ismail, Yehya, Yaqoub, Solaiman</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>How many sons did prophet Yaqoub (peace be upon him) has?</content>
+      <answers>
+        <answer correct="false" option="a">6 sons</answer>
+        <answer correct="true" option="b">12 sons</answer>
+        <answer correct="false" option="c">23 sons</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>Name the camel of the Prophet Muhammed (peace be upon him)?</content>
+      <answers>
+        <answer correct="true" option="a">Al-Qaswa'a</answer>
+        <answer correct="false" option="b">Al-Bay'tha</answer>
+        <answer correct="false" option="c">Al-Jamila</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>How many miracles did Prophet Moses (peace be upon him) have?</content>
+      <answers>
+        <answer correct="true" option="a">9</answer>
+        <answer correct="false" option="b">900</answer>
+        <answer correct="false" option="c">353</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>How many wife's did the prophet Muhammed (peace be upon him) have?</content>
+      <answers>
+        <answer correct="true" option="a">12 wife's</answer>
+        <answer correct="false" option="b">11. wife's</answer>
+        <answer correct="false" option="c">13 wife's</answer>
+      </answers>
+      <info>(1. Khadijah, 2. Sawada, 3. A'isha, 4. Hafsa, 5. Zaynab, 6.Umm Salama, 7. Zaynab, 8.Juwayriya, 9. Umm Habiba, 10. Safiyya, 11. Maymuna, 12. Maria)</info>
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>How many daughters of the Prophet (peace be upon him) passed away before him?</content>
+      <answers>
+        <answer correct="true" option="a">3</answer>
+        <answer correct="false" option="b">1</answer>
+        <answer correct="false" option="c">none</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>How many times did the Prophet Muhammed (peace be upon him) perform Umra?</content>
+      <answers>
+        <answer correct="false" option="a">3 times</answer>
+        <answer correct="true" option="b">2 times</answer>
+        <answer correct="false" option="c">5 times</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>A prophet who God blessed with prophecy before he was born, who is he?</content>
+      <answers>
+        <answer correct="true" option="a">Yahya (John, peace be upon him)</answer>
+        <answer correct="false" option="b">Muhammed (peace be upon him)</answer>
+        <answer correct="false" option="c">Isa (Jesus, peace be upon him)</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>The Prophet Muhammed (peace be upon him) did two job activities before his religious mission, what were they?</content>
+      <answers>
+        <answer correct="true" option="a">Grazing and Trading</answer>
+        <answer correct="false" option="b">Trading and Carpentry</answer>
+        <answer correct="false" option="c">Basket-making and Weaving</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>Allah ordered one of his messengers to take the holy book strongly, Who is he?</content>
+      <answers>
+        <answer correct="true" option="a">Yahya (peace be upon him)</answer>
+        <answer correct="false" option="b">Muhammed (peace be upon him)</answer>
+        <answer correct="false" option="c">Moses (peace be upon him)</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>What is the name of the great king, who Daoud/David (peace be upon him) married his daughter and inherited his kingdom?</content>
+      <answers>
+        <answer correct="true" option="a">Taloot (Saul)</answer>
+        <answer correct="false" option="b">Jaloot (Goliath)</answer>
+        <answer correct="false" option="c">sons</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>Who is the prophet who refrained from speaking for three days when he knew that his wife was pregnant?</content>
+      <answers>
+        <answer correct="false" option="a">Ibrahim (peace be upon him)</answer>
+        <answer correct="true" option="b">Zakaria (peace be upon him)</answer>
+        <answer correct="false" option="c">Idris (peace be upon him)</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>Who is the companion who had accompanied the Prophet Muhammed (peace be upon him) to the city of Ta'if?</content>
+      <answers>
+        <answer correct="true" option="a">Zaid Ibn Haritha</answer>
+        <answer correct="false" option="b">Amr Ibn Rabea</answer>
+        <answer correct="false" option="c">Abu Bakr</answer>
+      </answers>
+      <info>(Zaid Ibn Haritha,Adopted son of the prophet travelled to Taif where the people began to insult the Prophet (saw) in the streets, hooting and cursing as they pelted stones)</info>
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>Who was the incubator of the Prophet Muhammed (peace be upon him)?</content>
+      <answers>
+        <answer correct="true" option="a">Umm Ayman (may Allah be pleased with her)</answer>
+        <answer correct="false" option="b">Haleema Al Sadiya (may Allah be pleased with her)</answer>
+        <answer correct="false" option="c">He didn't have any</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>In which city was the prophet Jesus (peace be upon him) born?</content>
+      <answers>
+        <answer correct="true" option="a">Bethlehem</answer>
+        <answer correct="false" option="b">Haifa</answer>
+        <answer correct="false" option="c">Al-Quds (Jerusalem)</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>What was the food that the prophet Muhammed (peace be upon him) almost consumed every day?</content>
+      <answers>
+        <answer correct="true" option="a">Dates and Water</answer>
+        <answer correct="false" option="b">Dates and Camel Milk</answer>
+        <answer correct="false" option="c">Bread and Cow Milk</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>What is the bed of the prophet (peace be upon him) made of?</content>
+      <answers>
+        <answer correct="true" option="a">a simple flat mat</answer>
+        <answer correct="false" option="b">two camel skins on top of each other</answer>
+        <answer correct="false" option="c">a simple hay bed</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>The prophet Sulaiman/Solomon (peace be upon him) married a number of women who among them were slaves-How many of each did he marry?</content>
+      <answers>
+        <answer correct="false" option="a">15 wifes and 90 Jaria</answer>
+        <answer correct="false" option="b">50 wifes and 130 Jaria</answer>
+        <answer correct="true" option="c">300 wives and 700 Jaria</answer>
+      </answers>
+      <info>(Jaria: women slave that can be used as wives, but treated well)</info>
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>On the night the prophet Muhammed (peace be upon him) was born what happed to the "Majus" (Zoroastrians)?</content>
+      <answers>
+        <answer correct="false" option="a">It turned into Ice</answer>
+        <answer correct="false" option="b">They got burned by their fire</answer>
+        <answer correct="true" option="c">Flames of the fire-worshippers went out</answer>
+      </answers>
+      <info>(though that fire had been burning for more than a thousand years, never extinguished)</info>
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>How many companions pledged allegiance to the Prophet in the second "Aqaba pledge of allegiance"?
+</content>
+      <answers>
+        <answer correct="false" option="a">73 men, 5 women</answer>
+        <answer correct="false" option="b">73 men</answer>
+        <answer correct="true" option="c">73 men, 2 women</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>One of the prophet (peace be upon him) companion best known as" the poet of the prophet", who is he?</content>
+      <answers>
+        <answer correct="false" option="a">Kaab Ibn Luay</answer>
+        <answer correct="false" option="b">Hafez Ibrahim</answer>
+        <answer correct="true" option="c">Hassan Ibn Thabit</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>One of the messengers of Allah who God spoke to directly on earth, who is he?</content>
+      <answers>
+        <answer correct="false" option="a">Adam (peace be upon him)</answer>
+        <answer correct="true" option="b">Moses (peace be upon him)</answer>
+        <answer correct="false" option="c">Isa (peace be upon him)</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>Who is the only person that the prophet Muhammed (peace be upon him) ever killed in battle?</content>
+      <answers>
+        <answer correct="true" option="a">Ubai Ibn Khalaf</answer>
+        <answer correct="false" option="b">Abu Jahl</answer>
+        <answer correct="false" option="c">Uqba Ibn Khalaf</answer>
+      </answers>
+      <info>(in the battler of Uhud)</info>
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>Who are  the "Ulu Al- A'zam" prohets (peace be upon them)?</content>
+      <answers>
+        <answer correct="false" option="a">Musa, Ibrahim, Isa (Jesus), Daoud (David)</answer>
+        <answer correct="true" option="b">Nouh (Noah), Ibrahim, Musa (Moses), Isa (Jesus), Muhammed</answer>
+        <answer correct="false" option="c">Isa (Jesus), Musa (Moses), Muhammed</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>The Night of Israa and Maraaj the Prophet rode an animal that has wings, what is it called?</content>
+      <answers>
+        <answer correct="false" option="a">Al-Baroouq</answer>
+        <answer correct="false" option="b">Al-Barq</answer>
+        <answer correct="true" option="c">Al-Buraq</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>Who was the first to believe in the prophethood of Muhammed (peace be upon him) before experiencing the beginning of the revelation?</content>
+      <answers>
+        <answer correct="false" option="a">The munk Bahira</answer>
+        <answer correct="true" option="b">Waraqa Ibn Nawfal</answer>
+      </answers>
+      <info>(Waraqa (a Christian) was informed by Khadija (his cousin) about the Prophet's story and Jebril's descendants and confirmed that he is the promissed prophet)</info>
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>On the night of immigration, where did the enemies of the prophet Muhammed (peace be upon him) gather to decide on who will murder him?</content>
+      <answers>
+        <answer correct="false" option="a">Abu Sufian's house</answer>
+        <answer correct="false" option="b">Abu Lahab's house</answer>
+        <answer correct="true" option="c">Al-Nadwa house</answer>
+      </answers>
+      <info>(council house for infidels/Kuraish)</info>
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>The Prophet Muhammed (peace be upon him) mentioned that there is one particular tree that the Jews will hide behind during their  war with Muslims, what is it called?</content>
+      <answers>
+        <answer correct="false" option="a">Eucalyptus Tree</answer>
+        <answer correct="true" option="b">Nitraria Tree</answer>
+        <answer correct="false" option="c">Judas Tree</answer>
+      </answers>
+      <info>(also called Al-Gharqhad Tree in arabic. All trees will say there is a Jew behind me come and kill him only the Al-Gharqad will keep silent)</info>
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>What is the name of the prophet sent east of Mount Sinai to the notorious people of "Median" who used to cheat others through dishonesty and worship Idols?</content>
+      <answers>
+        <answer correct="false" option="a">Isa (Jesus, peace be upon him)</answer>
+        <answer correct="false" option="b">Noah (peace be upon him)</answer>
+        <answer correct="true" option="c">Shoaib (Jethro, peace be upon him)</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>Who is the prophet who was sent to the people "Nineveh" who lived near the river Tigris (capital city of Assyria) and were extremely arrogant and lived sinful lives?</content>
+      <answers>
+        <answer correct="false" option="a">Dhul-Kifl (Ezekiel, peace be upon him)</answer>
+        <answer correct="false" option="b">Hud (Eber, peace be upon him)</answer>
+        <answer correct="true" option="c">Younis (Jonah, peace be upon him)</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>What is the name of the place where prophet Muhammed (peace be upon him) and his companion Abu Baker remained for three nights during migration to Madina?</content>
+      <answers>
+        <answer correct="false" option="a">Cave Hira</answer>
+        <answer correct="true" option="b">Cave Thawr/Thour</answer>
+        <answer correct="false" option="c">Mountain Rahmah</answer>
+      </answers>
+      <info />
+    </question>
+    <question>
+      <type>purple</type>
+      <section>The Prophets</section>
+      <content>From which country was Hajar the mother of Prophet Ismail (peace be upon him)?</content>
+      <answers>
+        <answer correct="false" option="a">Croatia</answer>
+        <answer correct="false" option="b">Turkey</answer>
+        <answer correct="true" option="c">Egypt</answer>
+      </answers>
+      <info />
+    </question>
+  </questions>
+</QuestionData>

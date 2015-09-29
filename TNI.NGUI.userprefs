@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Controllers/Profile/ProfileController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Controllers/Profile/EditPillarBoxController.cs" Line="37" Column="41" />
+      <File FileName="Assets/Scripts/Controllers/Profile/ProfileController.cs" Line="171" Column="1" />
+      <File FileName="Assets/Scripts/Controllers/Profile/EditPlayerController.cs" Line="8" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
